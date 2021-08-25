@@ -4,8 +4,6 @@ I like learning about software engineering, development, testing, and pretty muc
 So if you recently read a good tech article, please share it with me!
 I also like competitive video games such as Call of Duty, Battlefield, Escape From Tarkov, Total War: Warhammer II, League of Legends, and much much more.
 I'm always excited to talk about video games or esports. If you want any recommendations or just want to chat, send me a message any time.
- 
-Learning Goals
 
 
 
