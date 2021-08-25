@@ -1,4 +1,5 @@
 About Me
+
 Hi, my name is Julian. I live in downtown Indianapolis, IN. with my GF & Betty (puppy).
 I like learning about software engineering, development, testing, and pretty much any other technology focused subject.
 So if you recently read a good tech article, please share it with me!
